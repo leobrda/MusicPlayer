@@ -52,7 +52,7 @@
 1. Clonar repositório:
 
 ```
-git clone https://github.com/leobrda/calculadora_idade.git
+git clone https://github.com/leobrda/music_player.git
 ```
 
 2. Instale a IDE de sua preferência
